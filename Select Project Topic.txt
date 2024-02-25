@@ -1,0 +1,9 @@
+1. The website that I would like to make is a site that will showcase my games that create or games that I have played recently with a review on why they are worth playing. A Mobile app that I would like to create is a randomizer. It would be able to randomize numbers, and a list to give a random output.
+
+2. The audience for the website would be gamers looking to play something new or look into popular games for a review.
+
+3. I made a small website for IMM 120 that had 3 pages a simple navigation with links on the top of the website. It was a randomizer website that is same as the mobile app I want to create.
+
+4. The audience for the app would be for people who need an aspect of randomization for a party game or a video game to spice it up and make it more fun or special.
+
+5. I have never created an app before.
